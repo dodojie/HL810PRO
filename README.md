@@ -5,3 +5,5 @@
 ### USB转串口驱动下载  [WIN](https://raw.githubusercontent.com/dodojie/HL810PRO/main/tutorial/data/CH341SER.EXE)  |  [MAC](https://raw.githubusercontent.com/dodojie/HL810PRO/main/tutorial/data/CH34XSER_MAC.ZIP)
 
 ### ESP32烧录工具下载  [WIN](https://raw.githubusercontent.com/dodojie/HL810PRO/main/tutorial/data/ESPHome-Flasher-1.4.0-Windows-x86.exe) | [MAC](https://raw.githubusercontent.com/dodojie/HL810PRO/main/tutorial/data/ESPHome-Flasher-1.4.0-macOS.tar)
+
+### CC2652P烧录工具下载   [WIN](https://jihulab.com/dodojie/hl810pro/-/raw/main/flash-programmer-2-1.8.2.zip)
